@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.cpp
- * Author: sjk
+ * Author: serikamasan@zoho.com
  *
  * Created on 8 марта 2017 г., 17:22
  */
